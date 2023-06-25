@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Job\\Domain",
+    "\\Job\\Domain\\Aggregates",
+    "\\Job\\Domain\\Aggregates\\Job",
+    "\\Subscription\\Domain",
+    "\\Subscription\\Domain\\Aggregates",
+    "\\Subscription\\Domain\\Aggregates\\Subscription",
+    "\\User",
+    "\\User\\Domain",
+    "\\User\\Domain\\Aggregates",
+    "\\User\\Domain\\Aggregates\\User"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
