@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YourJob-DDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4e5f623b239e5b529f1c461ea25d40c6a5dbd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("YourJob-DDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YourJob-DDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
